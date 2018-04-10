@@ -1,0 +1,4 @@
+H:\2° Módulo\DS\03-04-2018\ProvaPráticaDS\ProvaPráticaDS\bin\Debug\ProvaPráticaDS.exe
+H:\2° Módulo\DS\03-04-2018\ProvaPráticaDS\ProvaPráticaDS\bin\Debug\ProvaPráticaDS.pdb
+H:\2° Módulo\DS\03-04-2018\ProvaPráticaDS\ProvaPráticaDS\obj\x86\Debug\ProvaPráticaDS.exe
+H:\2° Módulo\DS\03-04-2018\ProvaPráticaDS\ProvaPráticaDS\obj\x86\Debug\ProvaPráticaDS.pdb
